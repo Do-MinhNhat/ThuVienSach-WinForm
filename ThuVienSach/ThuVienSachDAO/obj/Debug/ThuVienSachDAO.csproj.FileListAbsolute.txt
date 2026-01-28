@@ -1,0 +1,86 @@
+C:\Users\Admin\Desktop\DoAnGui\DoAnGui\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\ThuVienSachDAO.dll
+C:\Users\Admin\Desktop\DoAnGui\DoAnGui\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\ThuVienSachDAO.pdb
+C:\Users\Admin\Desktop\DoAnGui\DoAnGui\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\DoAnGui\DoAnGui\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\DoAnGui\DoAnGui\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DoAnGui\DoAnGui\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DoAnGui\DoAnGui\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienS.8ADC9545.Up2Date
+C:\Users\Admin\Desktop\DoAnGui\DoAnGui\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.dll
+C:\Users\Admin\Desktop\DoAnGui\DoAnGui\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.pdb
+C:\Users\SV\Desktop\DoAnGui\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\ThuVienSachDAO.dll
+C:\Users\SV\Desktop\DoAnGui\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\ThuVienSachDAO.pdb
+C:\Users\SV\Desktop\DoAnGui\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\DTO.dll
+C:\Users\SV\Desktop\DoAnGui\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\DTO.pdb
+C:\Users\SV\Desktop\DoAnGui\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.csproj.AssemblyReference.cache
+C:\Users\SV\Desktop\DoAnGui\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.csproj.CoreCompileInputs.cache
+C:\Users\SV\Desktop\DoAnGui\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienS.8ADC9545.Up2Date
+C:\Users\SV\Desktop\DoAnGui\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.dll
+C:\Users\SV\Desktop\DoAnGui\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.pdb
+C:\Users\Admin\Desktop\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\ThuVienSachDAO.dll
+C:\Users\Admin\Desktop\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\ThuVienSachDAO.pdb
+C:\Users\Admin\Desktop\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienS.8ADC9545.Up2Date
+C:\Users\Admin\Desktop\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.dll
+C:\Users\Admin\Desktop\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.pdb
+C:\Users\Admin\Desktop\DoAnGui (1)\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\ThuVienSachDAO.dll
+C:\Users\Admin\Desktop\DoAnGui (1)\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\ThuVienSachDAO.pdb
+C:\Users\Admin\Desktop\DoAnGui (1)\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\DoAnGui (1)\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\DoAnGui (1)\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DoAnGui (1)\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DoAnGui (1)\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienS.8ADC9545.Up2Date
+C:\Users\Admin\Desktop\DoAnGui (1)\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.dll
+C:\Users\Admin\Desktop\DoAnGui (1)\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.pdb
+D:\Pro-3K4\C-sharp\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\ThuVienSachDAO.dll
+D:\Pro-3K4\C-sharp\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\ThuVienSachDAO.pdb
+D:\Pro-3K4\C-sharp\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\DTO.dll
+D:\Pro-3K4\C-sharp\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\DTO.pdb
+D:\Pro-3K4\C-sharp\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.csproj.AssemblyReference.cache
+D:\Pro-3K4\C-sharp\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.csproj.CoreCompileInputs.cache
+D:\Pro-3K4\C-sharp\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienS.8ADC9545.Up2Date
+D:\Pro-3K4\C-sharp\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.dll
+D:\Pro-3K4\C-sharp\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.pdb
+D:\Pro-3K4\C-sharp\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\khang\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\ThuVienSachDAO.dll
+C:\Users\Admin\Desktop\khang\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\ThuVienSachDAO.pdb
+C:\Users\Admin\Desktop\khang\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\khang\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\khang\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\khang\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\khang\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\khang\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienS.8ADC9545.Up2Date
+C:\Users\Admin\Desktop\khang\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.dll
+C:\Users\Admin\Desktop\khang\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.pdb
+D:\Doan\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\ThuVienSachDAO.dll
+D:\Doan\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\ThuVienSachDAO.pdb
+D:\Doan\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\DTO.dll
+D:\Doan\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Doan\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\DTO.pdb
+D:\Doan\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.csproj.AssemblyReference.cache
+D:\Doan\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.csproj.CoreCompileInputs.cache
+D:\Doan\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienS.8ADC9545.Up2Date
+D:\Doan\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.dll
+D:\Doan\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.pdb
+C:\Users\Admin\Desktop\Khnag2\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\ThuVienSachDAO.dll
+C:\Users\Admin\Desktop\Khnag2\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\ThuVienSachDAO.pdb
+C:\Users\Admin\Desktop\Khnag2\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\Khnag2\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\Khnag2\DoAnGui\ThuVienSach\ThuVienSachDAO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\Khnag2\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Khnag2\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Khnag2\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienS.8ADC9545.Up2Date
+C:\Users\Admin\Desktop\Khnag2\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.dll
+C:\Users\Admin\Desktop\Khnag2\DoAnGui\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.pdb
+D:\ThuVienSach(WinForm)\ThuVienSach\ThuVienSachDAO\bin\Debug\ThuVienSachDAO.dll
+D:\ThuVienSach(WinForm)\ThuVienSach\ThuVienSachDAO\bin\Debug\ThuVienSachDAO.pdb
+D:\ThuVienSach(WinForm)\ThuVienSach\ThuVienSachDAO\bin\Debug\DTO.dll
+D:\ThuVienSach(WinForm)\ThuVienSach\ThuVienSachDAO\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ThuVienSach(WinForm)\ThuVienSach\ThuVienSachDAO\bin\Debug\DTO.pdb
+D:\ThuVienSach(WinForm)\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.csproj.AssemblyReference.cache
+D:\ThuVienSach(WinForm)\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.csproj.CoreCompileInputs.cache
+D:\ThuVienSach(WinForm)\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienS.8ADC9545.Up2Date
+D:\ThuVienSach(WinForm)\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.dll
+D:\ThuVienSach(WinForm)\ThuVienSach\ThuVienSachDAO\obj\Debug\ThuVienSachDAO.pdb

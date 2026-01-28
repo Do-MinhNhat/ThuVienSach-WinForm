@@ -1,0 +1,851 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A75A1B2-DF82-41D3-94FE-5B33CA7EF21D}|ThuVienSachDAO\\ThuVienSachDAO.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensachdao\\lhdhoadondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A75A1B2-DF82-41D3-94FE-5B33CA7EF21D}|ThuVienSachDAO\\ThuVienSachDAO.csproj|solutionrelative:thuviensachdao\\lhdhoadondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4605455-2B51-4F2D-8315-F7E18777E4A4}|ThuVienSachBUS\\ThuVienSachBUS.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensachbus\\lhdhoadonbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4605455-2B51-4F2D-8315-F7E18777E4A4}|ThuVienSachBUS\\ThuVienSachBUS.csproj|solutionrelative:thuviensachbus\\lhdhoadonbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\quanlymuontrasach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\quanlymuontrasach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\laphoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\laphoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A75A1B2-DF82-41D3-94FE-5B33CA7EF21D}|ThuVienSachDAO\\ThuVienSachDAO.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensachdao\\sachdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A75A1B2-DF82-41D3-94FE-5B33CA7EF21D}|ThuVienSachDAO\\ThuVienSachDAO.csproj|solutionrelative:thuviensachdao\\sachdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A75A1B2-DF82-41D3-94FE-5B33CA7EF21D}|ThuVienSachDAO\\ThuVienSachDAO.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensachdao\\tacgiadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A75A1B2-DF82-41D3-94FE-5B33CA7EF21D}|ThuVienSachDAO\\ThuVienSachDAO.csproj|solutionrelative:thuviensachdao\\tacgiadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|d:\\thuviensach(winform)\\thuviensach\\thuviensach\\quanlytacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\quanlytacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\quanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\quanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C2DDD7-81BD-4E98-B2F0-8FA95A059F92}|DTO\\ThuVienSachDTO.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\dto\\sachdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C2DDD7-81BD-4E98-B2F0-8FA95A059F92}|DTO\\ThuVienSachDTO.csproj|solutionrelative:dto\\sachdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4605455-2B51-4F2D-8315-F7E18777E4A4}|ThuVienSachBUS\\ThuVienSachBUS.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensachbus\\sachbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4605455-2B51-4F2D-8315-F7E18777E4A4}|ThuVienSachBUS\\ThuVienSachBUS.csproj|solutionrelative:thuviensachbus\\sachbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A75A1B2-DF82-41D3-94FE-5B33CA7EF21D}|ThuVienSachDAO\\ThuVienSachDAO.csproj|d:\\thuviensach(winform)\\thuviensach\\thuviensachdao\\hdnhapsachdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A75A1B2-DF82-41D3-94FE-5B33CA7EF21D}|ThuVienSachDAO\\ThuVienSachDAO.csproj|solutionrelative:thuviensachdao\\hdnhapsachdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C2DDD7-81BD-4E98-B2F0-8FA95A059F92}|DTO\\ThuVienSachDTO.csproj|d:\\thuviensach(winform)\\thuviensach\\dto\\hdnhapsachdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C2DDD7-81BD-4E98-B2F0-8FA95A059F92}|DTO\\ThuVienSachDTO.csproj|solutionrelative:dto\\hdnhapsachdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|d:\\thuviensach(winform)\\thuviensach\\thuviensach\\laphoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\laphoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|d:\\thuviensach(winform)\\thuviensach\\thuviensach\\quanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\quanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|d:\\thuviensach(winform)\\thuviensach\\thuviensach\\thongkenhapsach.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\thongkenhapsach.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\thongkenhapsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\thongkenhapsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\quanlytacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\quanlytacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\quanlychucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\quanlychucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\quanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\quanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\quanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\quanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\quanlynhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\quanlynhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\quanlynhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\quanlynhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\quanlytheloaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\quanlytheloaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\quanlythanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\quanlythanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A75A1B2-DF82-41D3-94FE-5B33CA7EF21D}|ThuVienSachDAO\\ThuVienSachDAO.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensachdao\\nhanviendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A75A1B2-DF82-41D3-94FE-5B33CA7EF21D}|ThuVienSachDAO\\ThuVienSachDAO.csproj|solutionrelative:thuviensachdao\\nhanviendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4605455-2B51-4F2D-8315-F7E18777E4A4}|ThuVienSachBUS\\ThuVienSachBUS.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensachbus\\nhanvienbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4605455-2B51-4F2D-8315-F7E18777E4A4}|ThuVienSachBUS\\ThuVienSachBUS.csproj|solutionrelative:thuviensachbus\\nhanvienbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A75A1B2-DF82-41D3-94FE-5B33CA7EF21D}|ThuVienSachDAO\\ThuVienSachDAO.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensachdao\\khachhangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A75A1B2-DF82-41D3-94FE-5B33CA7EF21D}|ThuVienSachDAO\\ThuVienSachDAO.csproj|solutionrelative:thuviensachdao\\khachhangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4605455-2B51-4F2D-8315-F7E18777E4A4}|ThuVienSachBUS\\ThuVienSachBUS.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensachbus\\khachhangbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4605455-2B51-4F2D-8315-F7E18777E4A4}|ThuVienSachBUS\\ThuVienSachBUS.csproj|solutionrelative:thuviensachbus\\khachhangbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A75A1B2-DF82-41D3-94FE-5B33CA7EF21D}|ThuVienSachDAO\\ThuVienSachDAO.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensachdao\\nhacungcapdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A75A1B2-DF82-41D3-94FE-5B33CA7EF21D}|ThuVienSachDAO\\ThuVienSachDAO.csproj|solutionrelative:thuviensachdao\\nhacungcapdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4605455-2B51-4F2D-8315-F7E18777E4A4}|ThuVienSachBUS\\ThuVienSachBUS.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensachbus\\nhacungcapbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4605455-2B51-4F2D-8315-F7E18777E4A4}|ThuVienSachBUS\\ThuVienSachBUS.csproj|solutionrelative:thuviensachbus\\nhacungcapbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A75A1B2-DF82-41D3-94FE-5B33CA7EF21D}|ThuVienSachDAO\\ThuVienSachDAO.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensachdao\\theloaisachdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A75A1B2-DF82-41D3-94FE-5B33CA7EF21D}|ThuVienSachDAO\\ThuVienSachDAO.csproj|solutionrelative:thuviensachdao\\theloaisachdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4605455-2B51-4F2D-8315-F7E18777E4A4}|ThuVienSachBUS\\ThuVienSachBUS.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensachbus\\hoadonbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4605455-2B51-4F2D-8315-F7E18777E4A4}|ThuVienSachBUS\\ThuVienSachBUS.csproj|solutionrelative:thuviensachbus\\hoadonbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A75A1B2-DF82-41D3-94FE-5B33CA7EF21D}|ThuVienSachDAO\\ThuVienSachDAO.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensachdao\\hoadondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A75A1B2-DF82-41D3-94FE-5B33CA7EF21D}|ThuVienSachDAO\\ThuVienSachDAO.csproj|solutionrelative:thuviensachdao\\hoadondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\thongkenhanvien.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\thongkenhanvien.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\thongkenhapsach.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\thongkenhapsach.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\thongkemuonsach.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\thongkemuonsach.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\thongkehoadon.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\thongkehoadon.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\thongkekhachhang.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\thongkekhachhang.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\thongkenhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\thongkenhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\thongkenhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\thongkenhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\thongkenhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\thongkenhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\thongkenhanvien.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\thongkenhanvien.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\thongkenhapsach.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\thongkenhapsach.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\thongkesach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\thongkesach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\thongkenhapsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\thongkenhapsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|D:\\ThuVienSach(WinForm)\\ThuVienSach\\thuviensach\\thongkesach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D95127-702D-4E27-A1F5-150ECF84BC0D}|ThuVienSach\\ThuVienSachGUI.csproj|solutionrelative:thuviensach\\thongkesach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TacGiaDAO.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachDAO\\TacGiaDAO.cs",
+              "RelativeDocumentMoniker": "ThuVienSachDAO\\TacGiaDAO.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachDAO\\TacGiaDAO.cs",
+              "RelativeToolTip": "ThuVienSachDAO\\TacGiaDAO.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwDAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:49:33.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SachDAO.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachDAO\\SachDAO.cs",
+              "RelativeDocumentMoniker": "ThuVienSachDAO\\SachDAO.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachDAO\\SachDAO.cs",
+              "RelativeToolTip": "ThuVienSachDAO\\SachDAO.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:55:29.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LapHoaDon.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\LapHoaDon.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\LapHoaDon.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\LapHoaDon.cs",
+              "RelativeToolTip": "ThuVienSach\\LapHoaDon.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAiwOEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:05:42.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuanLyMuonTraSach.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\QuanLyMuonTraSach.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\QuanLyMuonTraSach.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\QuanLyMuonTraSach.cs",
+              "RelativeToolTip": "ThuVienSach\\QuanLyMuonTraSach.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAIwGgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:49:03.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LHDHoaDonBUS.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachBUS\\LHDHoaDonBUS.cs",
+              "RelativeDocumentMoniker": "ThuVienSachBUS\\LHDHoaDonBUS.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachBUS\\LHDHoaDonBUS.cs",
+              "RelativeToolTip": "ThuVienSachBUS\\LHDHoaDonBUS.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwCAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:24:24.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LHDHoaDonDAO.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachDAO\\LHDHoaDonDAO.cs",
+              "RelativeDocumentMoniker": "ThuVienSachDAO\\LHDHoaDonDAO.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachDAO\\LHDHoaDonDAO.cs",
+              "RelativeToolTip": "ThuVienSachDAO\\LHDHoaDonDAO.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAwHMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:19:19.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuanLyTacGia.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\QuanLyTacGia.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\QuanLyTacGia.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\QuanLyTacGia.cs",
+              "RelativeToolTip": "ThuVienSach\\QuanLyTacGia.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAuwFwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T13:01:37.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuanLySach.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\QuanLySach.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\QuanLySach.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\QuanLySach.cs",
+              "RelativeToolTip": "ThuVienSach\\QuanLySach.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAYwKoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:58:20.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SachBUS.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachBUS\\SachBUS.cs",
+              "RelativeDocumentMoniker": "ThuVienSachBUS\\SachBUS.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachBUS\\SachBUS.cs",
+              "RelativeToolTip": "ThuVienSachBUS\\SachBUS.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAewBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:16:59.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HDNhapSachDAO.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachDAO\\HDNhapSachDAO.cs",
+              "RelativeDocumentMoniker": "ThuVienSachDAO\\HDNhapSachDAO.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachDAO\\HDNhapSachDAO.cs",
+              "RelativeToolTip": "ThuVienSachDAO\\HDNhapSachDAO.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvywAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:53:34.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HDNhapSachDTO.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\DTO\\HDNhapSachDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\HDNhapSachDTO.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\DTO\\HDNhapSachDTO.cs",
+              "RelativeToolTip": "DTO\\HDNhapSachDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:53:44.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LapHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\LapHoaDon.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\LapHoaDon.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\LapHoaDon.cs [Design]",
+              "RelativeToolTip": "ThuVienSach\\LapHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:39:47.857Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SachDTO.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\DTO\\SachDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\SachDTO.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\DTO\\SachDTO.cs",
+              "RelativeToolTip": "DTO\\SachDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:55:11.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QuanLySach.cs [Design]",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\QuanLySach.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\QuanLySach.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\QuanLySach.cs [Design]",
+              "RelativeToolTip": "ThuVienSach\\QuanLySach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:38:57.19Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "QuanLyTaiKhoan.cs [Design]",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\QuanLyTaiKhoan.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\QuanLyTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Khnag2\\DoAnGui\\ThuVienSach\\ThuVienSach\\QuanLyTaiKhoan.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:14:36.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QuanLy.cs [Design]",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\QuanLy.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\QuanLy.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Khnag2\\DoAnGui\\ThuVienSach\\ThuVienSach\\QuanLy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T10:47:54.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QuanLyTacGia.cs [Design]",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\QuanLyTacGia.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\QuanLyTacGia.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\QuanLyTacGia.cs [Design]",
+              "RelativeToolTip": "ThuVienSach\\QuanLyTacGia.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:27:23.66Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ThongKeNhapSach.cs [Design]",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\ThongKeNhapSach.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\ThongKeNhapSach.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Khnag2\\DoAnGui\\ThuVienSach\\ThuVienSach\\ThongKeNhapSach.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:50:00.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ThongKeNhapSach.rdlc",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\ThongKeNhapSach.rdlc",
+              "RelativeDocumentMoniker": "ThuVienSach\\ThongKeNhapSach.rdlc",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\ThongKeNhapSach.rdlc",
+              "RelativeToolTip": "ThuVienSach\\ThongKeNhapSach.rdlc",
+              "ViewState": "AgIAABkCAAAAAAAAAADgvwwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-05-02T02:53:48.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "QuanLyChucVu.cs [Design]",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\QuanLyChucVu.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\QuanLyChucVu.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Khnag2\\DoAnGui\\ThuVienSach\\ThuVienSach\\QuanLyChucVu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:22:50.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ThongKe.cs [Design]",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\ThongKe.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\ThongKe.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Khnag2\\DoAnGui\\ThuVienSach\\ThuVienSach\\ThongKe.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:37:49.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ThongKe.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\ThongKe.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\ThongKe.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Khnag2\\DoAnGui\\ThuVienSach\\ThuVienSach\\ThongKe.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wDwAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:41:30.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "QuanLy.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\QuanLy.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\QuanLy.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\QuanLy.cs",
+              "RelativeToolTip": "ThuVienSach\\QuanLy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:43:51.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "QuanLyTaiKhoan.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\QuanLyTaiKhoan.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\QuanLyTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Khnag2\\DoAnGui\\ThuVienSach\\ThuVienSach\\QuanLyTaiKhoan.cs*",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAuwO4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:12:09.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "QuanLyNhaCungCap.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\QuanLyNhaCungCap.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\QuanLyNhaCungCap.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\QuanLyNhaCungCap.cs",
+              "RelativeToolTip": "ThuVienSach\\QuanLyNhaCungCap.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwJcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:05:40.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "QuanLyNhaCungCap.cs [Design]",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\QuanLyNhaCungCap.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\QuanLyNhaCungCap.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Khnag2\\DoAnGui\\ThuVienSach\\ThuVienSach\\QuanLyNhaCungCap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:05:38.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "QuanLyTheLoaiSach.cs [Design]",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\QuanLyTheLoaiSach.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\QuanLyTheLoaiSach.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Khnag2\\DoAnGui\\ThuVienSach\\ThuVienSach\\QuanLyTheLoaiSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:24:41.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\DangNhap.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Khnag2\\DoAnGui\\ThuVienSach\\ThuVienSach\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:17:16.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\NhanVien.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Khnag2\\DoAnGui\\ThuVienSach\\ThuVienSach\\NhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:25:01.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "QuanLyThanhVien.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\QuanLyThanhVien.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\QuanLyThanhVien.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\QuanLyThanhVien.cs",
+              "RelativeToolTip": "ThuVienSach\\QuanLyThanhVien.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAYwDkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:09:16.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DangKy.cs [Design]",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\DangKy.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\DangKy.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Khnag2\\DoAnGui\\ThuVienSach\\ThuVienSach\\DangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:14:13.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NhanVienBUS.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachBUS\\NhanVienBUS.cs",
+              "RelativeDocumentMoniker": "ThuVienSachBUS\\NhanVienBUS.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachBUS\\NhanVienBUS.cs",
+              "RelativeToolTip": "ThuVienSachBUS\\NhanVienBUS.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA9wC8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:15:36.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "NhanVienDAO.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachDAO\\NhanVienDAO.cs",
+              "RelativeDocumentMoniker": "ThuVienSachDAO\\NhanVienDAO.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachDAO\\NhanVienDAO.cs",
+              "RelativeToolTip": "ThuVienSachDAO\\NhanVienDAO.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAGEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:22:07.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "KhachHangDAO.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachDAO\\KhachHangDAO.cs",
+              "RelativeDocumentMoniker": "ThuVienSachDAO\\KhachHangDAO.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachDAO\\KhachHangDAO.cs",
+              "RelativeToolTip": "ThuVienSachDAO\\KhachHangDAO.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAmwFQAAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:10:00.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "KhachHangBUS.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachBUS\\KhachHangBUS.cs",
+              "RelativeDocumentMoniker": "ThuVienSachBUS\\KhachHangBUS.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachBUS\\KhachHangBUS.cs",
+              "RelativeToolTip": "ThuVienSachBUS\\KhachHangBUS.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwCwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:09:32.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "NhaCungCapBUS.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachBUS\\NhaCungCapBUS.cs",
+              "RelativeDocumentMoniker": "ThuVienSachBUS\\NhaCungCapBUS.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachBUS\\NhaCungCapBUS.cs",
+              "RelativeToolTip": "ThuVienSachBUS\\NhaCungCapBUS.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwCwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:06:10.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "NhaCungCapDAO.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachDAO\\NhaCungCapDAO.cs",
+              "RelativeDocumentMoniker": "ThuVienSachDAO\\NhaCungCapDAO.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachDAO\\NhaCungCapDAO.cs",
+              "RelativeToolTip": "ThuVienSachDAO\\NhaCungCapDAO.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwFMAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:49:45.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TheLoaiSachDAO.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachDAO\\TheLoaiSachDAO.cs",
+              "RelativeDocumentMoniker": "ThuVienSachDAO\\TheLoaiSachDAO.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachDAO\\TheLoaiSachDAO.cs",
+              "RelativeToolTip": "ThuVienSachDAO\\TheLoaiSachDAO.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:49:42.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "HoaDonBUS.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachBUS\\HoaDonBUS.cs",
+              "RelativeDocumentMoniker": "ThuVienSachBUS\\HoaDonBUS.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachBUS\\HoaDonBUS.cs",
+              "RelativeToolTip": "ThuVienSachBUS\\HoaDonBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:11:57.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "HoaDonDAO.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachDAO\\HoaDonDAO.cs",
+              "RelativeDocumentMoniker": "ThuVienSachDAO\\HoaDonDAO.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSachDAO\\HoaDonDAO.cs",
+              "RelativeToolTip": "ThuVienSachDAO\\HoaDonDAO.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAmwJcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:19:33.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ThongKeNhapSach.resx",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\ThongKeNhapSach.resx",
+              "RelativeDocumentMoniker": "ThuVienSach\\ThongKeNhapSach.resx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Khnag2\\DoAnGui\\ThuVienSach\\ThuVienSach\\ThongKeNhapSach.resx*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-02T02:53:45.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ThongKeNhanVien.rdlc",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\ThongKeNhanVien.rdlc",
+              "RelativeDocumentMoniker": "ThuVienSach\\ThongKeNhanVien.rdlc",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\ThongKeNhanVien.rdlc",
+              "RelativeToolTip": "ThuVienSach\\ThongKeNhanVien.rdlc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-05-02T02:58:00.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ThongKeHoaDon.rdlc",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\ThongKeHoaDon.rdlc",
+              "RelativeDocumentMoniker": "ThuVienSach\\ThongKeHoaDon.rdlc",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\ThongKeHoaDon.rdlc",
+              "RelativeToolTip": "ThuVienSach\\ThongKeHoaDon.rdlc",
+              "ViewState": "AgIAADIBAAAAAAAAAAAtwDMBAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-05-02T04:43:16.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ThongKeKhachHang.rdlc",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\ThongKeKhachHang.rdlc",
+              "RelativeDocumentMoniker": "ThuVienSach\\ThongKeKhachHang.rdlc",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\ThongKeKhachHang.rdlc",
+              "RelativeToolTip": "ThuVienSach\\ThongKeKhachHang.rdlc",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-05-02T04:32:49.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ThongKeMuonSach.rdlc",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\ThongKeMuonSach.rdlc",
+              "RelativeDocumentMoniker": "ThuVienSach\\ThongKeMuonSach.rdlc",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\ThongKeMuonSach.rdlc",
+              "RelativeToolTip": "ThuVienSach\\ThongKeMuonSach.rdlc",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAtwBsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-05-02T02:58:13.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ThongKeNhanVien.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\ThongKeNhanVien.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\ThongKeNhanVien.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\ThongKeNhanVien.cs",
+              "RelativeToolTip": "ThuVienSach\\ThongKeNhanVien.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:18:12.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ThongKeNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\ThongKeNhanVien.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\ThongKeNhanVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Khnag2\\DoAnGui\\ThuVienSach\\ThuVienSach\\ThongKeNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T03:01:05.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ThongKeNhanVien.Designer.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\ThongKeNhanVien.Designer.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\ThongKeNhanVien.Designer.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\ThongKeNhanVien.Designer.cs",
+              "RelativeToolTip": "ThuVienSach\\ThongKeNhanVien.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T03:01:02.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ThongKeNhanVien.resx",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\ThongKeNhanVien.resx",
+              "RelativeDocumentMoniker": "ThuVienSach\\ThongKeNhanVien.resx",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\ThongKeNhanVien.resx",
+              "RelativeToolTip": "ThuVienSach\\ThongKeNhanVien.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-02T02:58:30.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ThongKeNhapSach.Designer.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\ThongKeNhapSach.Designer.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\ThongKeNhapSach.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Khnag2\\DoAnGui\\ThuVienSach\\ThuVienSach\\ThongKeNhapSach.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T02:53:32.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ThongKeSach.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\ThongKeSach.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\ThongKeSach.cs",
+              "ToolTip": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\ThongKeSach.cs",
+              "RelativeToolTip": "ThuVienSach\\ThongKeSach.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:48:59.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ThongKeSach.cs [Design]",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\ThongKeSach.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\ThongKeSach.cs",
+              "ToolTip": "D:\\Doan\\DoAnGui\\ThuVienSach\\ThuVienSach\\ThongKeSach.cs [Design]",
+              "RelativeToolTip": "..\\..\\Doan\\DoAnGui\\ThuVienSach\\ThuVienSach\\ThongKeSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:48:55.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ThongKeNhapSach.cs",
+              "DocumentMoniker": "D:\\ThuVienSach(WinForm)\\ThuVienSach\\ThuVienSach\\ThongKeNhapSach.cs",
+              "RelativeDocumentMoniker": "ThuVienSach\\ThongKeNhapSach.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Khnag2\\DoAnGui\\ThuVienSach\\ThuVienSach\\ThongKeNhapSach.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:48:39.582Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+C:\Users\Admin\Desktop\DoAnGui\DoAnGui\DoAnGui\ThuVienSach\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\DoAnGui\DoAnGui\DoAnGui\ThuVienSach\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\DoAnGui\DoAnGui\DoAnGui\ThuVienSach\DTO\obj\Debug\ThuVienSachDTO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DoAnGui\DoAnGui\DoAnGui\ThuVienSach\DTO\obj\Debug\ThuVienSachDTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DoAnGui\DoAnGui\DoAnGui\ThuVienSach\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Desktop\DoAnGui\DoAnGui\DoAnGui\ThuVienSach\DTO\obj\Debug\DTO.pdb
+C:\Users\SV\Desktop\DoAnGui\DoAnGui\ThuVienSach\DTO\bin\Debug\DTO.dll
+C:\Users\SV\Desktop\DoAnGui\DoAnGui\ThuVienSach\DTO\bin\Debug\DTO.pdb
+C:\Users\SV\Desktop\DoAnGui\DoAnGui\ThuVienSach\DTO\obj\Debug\ThuVienSachDTO.csproj.AssemblyReference.cache
+C:\Users\SV\Desktop\DoAnGui\DoAnGui\ThuVienSach\DTO\obj\Debug\ThuVienSachDTO.csproj.CoreCompileInputs.cache
+C:\Users\SV\Desktop\DoAnGui\DoAnGui\ThuVienSach\DTO\obj\Debug\DTO.dll
+C:\Users\SV\Desktop\DoAnGui\DoAnGui\ThuVienSach\DTO\obj\Debug\DTO.pdb
+C:\Users\Admin\Desktop\DoAnGui (1)\DoAnGui\ThuVienSach\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\DoAnGui (1)\DoAnGui\ThuVienSach\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\DoAnGui (1)\DoAnGui\ThuVienSach\DTO\obj\Debug\ThuVienSachDTO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DoAnGui (1)\DoAnGui\ThuVienSach\DTO\obj\Debug\ThuVienSachDTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DoAnGui (1)\DoAnGui\ThuVienSach\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Desktop\DoAnGui (1)\DoAnGui\ThuVienSach\DTO\obj\Debug\DTO.pdb
+D:\Pro-3K4\C-sharp\DoAnGui\ThuVienSach\DTO\bin\Debug\DTO.dll
+D:\Pro-3K4\C-sharp\DoAnGui\ThuVienSach\DTO\bin\Debug\DTO.pdb
+D:\Pro-3K4\C-sharp\DoAnGui\ThuVienSach\DTO\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Pro-3K4\C-sharp\DoAnGui\ThuVienSach\DTO\obj\Debug\ThuVienSachDTO.csproj.AssemblyReference.cache
+D:\Pro-3K4\C-sharp\DoAnGui\ThuVienSach\DTO\obj\Debug\ThuVienSachDTO.csproj.CoreCompileInputs.cache
+D:\Pro-3K4\C-sharp\DoAnGui\ThuVienSach\DTO\obj\Debug\ThuVienS.8ADC6AEA.Up2Date
+D:\Pro-3K4\C-sharp\DoAnGui\ThuVienSach\DTO\obj\Debug\DTO.dll
+D:\Pro-3K4\C-sharp\DoAnGui\ThuVienSach\DTO\obj\Debug\DTO.pdb
+C:\Users\Admin\Desktop\khang\DoAnGui\ThuVienSach\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\khang\DoAnGui\ThuVienSach\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\khang\DoAnGui\ThuVienSach\DTO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\khang\DoAnGui\ThuVienSach\DTO\obj\Debug\ThuVienSachDTO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\khang\DoAnGui\ThuVienSach\DTO\obj\Debug\ThuVienSachDTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\khang\DoAnGui\ThuVienSach\DTO\obj\Debug\ThuVienS.8ADC6AEA.Up2Date
+C:\Users\Admin\Desktop\khang\DoAnGui\ThuVienSach\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Desktop\khang\DoAnGui\ThuVienSach\DTO\obj\Debug\DTO.pdb
+D:\Doan\DoAnGui\ThuVienSach\DTO\bin\Debug\DTO.dll
+D:\Doan\DoAnGui\ThuVienSach\DTO\bin\Debug\DTO.pdb
+D:\Doan\DoAnGui\ThuVienSach\DTO\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Doan\DoAnGui\ThuVienSach\DTO\obj\Debug\ThuVienSachDTO.csproj.AssemblyReference.cache
+D:\Doan\DoAnGui\ThuVienSach\DTO\obj\Debug\ThuVienSachDTO.csproj.CoreCompileInputs.cache
+D:\Doan\DoAnGui\ThuVienSach\DTO\obj\Debug\ThuVienS.8ADC6AEA.Up2Date
+D:\Doan\DoAnGui\ThuVienSach\DTO\obj\Debug\DTO.dll
+D:\Doan\DoAnGui\ThuVienSach\DTO\obj\Debug\DTO.pdb
+C:\Users\Admin\Desktop\Khnag2\DoAnGui\ThuVienSach\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\Khnag2\DoAnGui\ThuVienSach\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\Khnag2\DoAnGui\ThuVienSach\DTO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\Khnag2\DoAnGui\ThuVienSach\DTO\obj\Debug\ThuVienSachDTO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Khnag2\DoAnGui\ThuVienSach\DTO\obj\Debug\ThuVienSachDTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Khnag2\DoAnGui\ThuVienSach\DTO\obj\Debug\ThuVienS.8ADC6AEA.Up2Date
+C:\Users\Admin\Desktop\Khnag2\DoAnGui\ThuVienSach\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Desktop\Khnag2\DoAnGui\ThuVienSach\DTO\obj\Debug\DTO.pdb
